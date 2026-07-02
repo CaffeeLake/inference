@@ -1,5 +1,5 @@
 xoscar>=0.7.2
-gradio==5.22.0
+gradio==6.15.0
 pillow
 click
 tqdm>=4.27
